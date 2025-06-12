@@ -1,0 +1,36 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment folders
+venv/
+.env/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# VSCode settings
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Python build artifacts
+*.egg-info/
+*.egg
+dist/
+build/
+
+# Excel or large raw data files
+*.xlsx
+*.xls
+
+# Streamlit cache and logs
+.streamlit/
+
+# Hidden or system files
+*.log
+*.bak
+*.swp
